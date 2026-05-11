@@ -30,9 +30,12 @@ Built as part of the Syntexhub Internship Task 🚀
 ## 📂 Project Structure
 
 PersonalVoiceAssistant/
+
 │
 ├── main.py
+
 ├── requirements.txt
+
 └── README.md
 ```
 
